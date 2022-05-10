@@ -1,1 +1,1 @@
-Folder where figures are generated
+Folder where figures are stored
